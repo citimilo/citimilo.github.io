@@ -36,4 +36,4 @@ I am Citi Milo and I am starting this blog to share my investment insights.
 
 Good Luck！
 
-Markdown: ![Qiita](http://qiita.com/icons/favicons/public/apple-touch-icon.png "Qiita")
+![Qiita](http://d.pr/i/vmYJ)
