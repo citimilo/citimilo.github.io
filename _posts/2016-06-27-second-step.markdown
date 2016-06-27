@@ -36,4 +36,4 @@ I am Citi Milo and I am starting this blog to share my investment insights.
 
 Good Luck！
 
-![Qiita](http://d.pr/i/vmYJ)
+![MacDown Screenshot](http://d.pr/i/vmYJ+)
