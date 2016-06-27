@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Citi Milo's Blog"
+title:  "被胡扯的日本负利率"
 date:   2016-06-27 05:02:31 +0000
 categories: investment
 ---
