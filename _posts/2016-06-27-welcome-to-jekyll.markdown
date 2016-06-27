@@ -16,7 +16,7 @@ I think this is good
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-This comment has been added on 27-Jun-2016.
+note!This comment has been added on 27-Jun-2016.
 
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
