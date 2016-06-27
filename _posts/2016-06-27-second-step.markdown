@@ -6,7 +6,7 @@ categories: investment
 ---
 I am Citi Milo and I am starting this blog to share my investment insights.
 
-好久没写公众号了。也许刘叔不是写生活类文章的料。也许我该尝试着换一种视角。
+好久没写公众号了:phone:。也许刘叔不是写生活类文章的料。也许我该尝试着换一种视角。
 
 家门口的茶花打足了苞子，蓝莓的小白花挂满枝。邻居们的院子里樱花桃花一齐盛放，颇有点"万枝丹彩灼春融"的意思。
  
